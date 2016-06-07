@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 51.972314,
-    "ref_longitude": 7.638247,
-    "ref_altitude": 53,
+    "ref_latitude": 51.94455838666126,
+    "ref_longitude": 7.638834721565236,
+    "ref_altitude": 63,
     "contact_email": "iotter@mac.com",
     "description": "ffms-ttn-gw1"
   }
