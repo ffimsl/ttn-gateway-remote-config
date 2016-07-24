@@ -18,8 +18,7 @@
           "serv_port_up": 1700, 
           "serv_port_down": 1700, 
           "serv_enabled": true }
-  }
-  }
+      }
     ],
     "ref_latitude": 51.972400,
     "ref_longitude": 7.638135,
