@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFEC1E582",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
+        "server_address": "eu1.cloud.thethings.network",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -17,7 +17,7 @@
     "ref_latitude": 51.94455838666126,
     "ref_longitude": 7.638834721565236,
     "ref_altitude": 63,
-    "contact_email": "iotter@mac.com",
+    "contact_email": "admin@robwei.me",
     "description": "ffms-ttn-gw1"
   }
 }
